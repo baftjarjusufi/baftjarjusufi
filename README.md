@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Baftjar</h1>
 <h3 align="center">A passionate it enthusiast and developer</h3>
+
 <img align="right" alt="Coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-c5b5bb8c951bbee14dc90021851f4079">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baftjarjusufi&label=Profile%20views&color=0e75b6&style=flat" alt="baftjarjusufi" /> </p>
-
-<p align="left"> <a href="https://twitter.com/baftjarjusufi" target="blank"><img src="https://img.shields.io/twitter/follow/baftjarjusufi?logo=twitter&style=for-the-badge" alt="baftjarjusufi" /></a> </p>
 
 - 🔭 I’m currently working on **estudysphere**
 
@@ -18,6 +17,7 @@
 
 - 📫 How to reach me **baftjarjj@gmail.com**
 
+- ⚡ Fun fact **entertaining**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,7 +33,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baftjarjusufi&show_icons=true&locale=en&layout=compact" alt="baftjarjusufi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baftjarjusufi&show_icons=true&locale=en" alt="baftjarjusufi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baftjarjusufi&" alt="baftjarjusufi" /></p>
-Payslip
-This is a document that an employee receives either as a notice that the direct deposit transaction has gone through, or as part of their paycheck. It will typically detail the gross income and all taxes and any other deductions such as retirement plan contributions, insurances, garnishments, or charitable contributions taken out of the gross amount to arrive at the final net amount of the pay, also including the year to date totals in some circumstances.
