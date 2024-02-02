@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Baftjar</h1>
 <h3 align="center">A passionate it enthusiast and developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-c5b5bb8c951bbee14dc90021851f4079">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baftjarjusufi&label=Profile%20views&color=0e75b6&style=flat" alt="baftjarjusufi" /> </p>
 
