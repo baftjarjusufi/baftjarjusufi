@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **baftjarjj@gmail.com**
 
-- ⚡ Fun fact **entertaining**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
