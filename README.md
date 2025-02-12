@@ -11,10 +11,6 @@
 
 - 👯 I’m looking to collaborate on **cybersecurity project**
 
-- 🤝 I’m looking for ideas with project **earth 3d**
-
-- 💬 Ask me about **python , c++ , js**
-
 - 📫 How to reach me **baftjarjj@gmail.com**
 
 
