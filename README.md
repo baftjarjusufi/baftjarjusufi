@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baftjarjusufi&label=Profile%20views&color=0e75b6&style=flat" alt="baftjarjusufi" /> </p>
 
-- 🔭 I’m currently working on **estudysphere**
+- 🔭 I’m currently working on **Movies React**
 
-- 🌱 I’m currently learning **Django , Angular , Web Api**
+- 🌱 I’m currently learning **Django , Angular , React**
 
 - 👯 I’m looking to collaborate on **cybersecurity project**
 
